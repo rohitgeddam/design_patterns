@@ -1,4 +1,4 @@
-package com.patterns.strategypattern.example1;
+package com.patterns.strategy;
 
 public class MallardDuck extends Duck{
     public MallardDuck() {
