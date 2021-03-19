@@ -9,8 +9,5 @@ public class WeatherORamen {
         t1.display();
         t1.removeFromObservable();
         ws1.updateParameters(30.1f, 52.3f,58.5f);
-
-
-
     }
 }
